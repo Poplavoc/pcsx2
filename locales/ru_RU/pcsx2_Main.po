@@ -269,8 +269,8 @@ msgstr ""
 #: pcsx2/SourceLog.cpp:193 pcsx2/SourceLog.cpp:294
 msgid "Logs only unknown, unmapped, or unimplemented register accesses."
 msgstr ""
-"Журналы только неизвестных, неадресованных, или нереализованных регисмтров "
-"доуступа."
+"Журналы только неизвестных, неадресованных или нереализованных регистров "
+"доступа."
 
 #: pcsx2/SourceLog.cpp:199 pcsx2/SourceLog.cpp:300
 msgid "Logs only DMA-related registers."
@@ -296,7 +296,7 @@ msgstr "Вся обработка участвующая в Path3 Masking"
 
 #: pcsx2/SourceLog.cpp:229
 msgid "Scratchpad's MFIFO activity."
-msgstr "Активность Scratchpad's MFIFO."
+msgstr "Активность временной памяти MFIFO."
 
 #: pcsx2/SourceLog.cpp:235
 msgid "Actual data transfer logs, bus right arbitration, stalls, etc."
@@ -530,7 +530,7 @@ msgstr "Нажимите OK чтобы закрыть %s."
 #: pcsx2/gui/AppInit.cpp:504
 #, c-format
 msgid "%s Critical Error"
-msgstr "Страшная и непереносимая ошибка %s"
+msgstr "Критическая ошибка %s"
 
 #: pcsx2/gui/AppInit.cpp:674
 msgid "OK"
